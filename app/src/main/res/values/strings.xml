@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">udacity</string>
+    <string name="tel_650_555_5555">tel: 650–555-5555</string>
+    <string name="mountain_view_ca_94043">Mountain View, CA 94043</string>
+</resources>
